@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "変身！ゼロツー～Now is the right time（『仮面ライダーゼロワン』挿入歌）",
+  "base_artist": "緋村剛",
+  "createdAt": "2026-01-09T07:54:32.115025Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "変身!ゼロツー~Now is the right time",
+      "artist": "緋村剛",
+      "has_synced": false,
+      "path": "select/pl_01_変身!ゼロツー~Now_is_the_right_time_緋村剛.txt"
+    }
+  ]
+}
